@@ -1,15 +1,14 @@
 # IHC
 ![preview](./preview.png)
 
->Trilha Explorer
+  >CEUB - ADS
 
-Projeto construido na Next Level Week da Rocketseat
+Projeto construido na aula de IHC 2 Semestre
 
 [Clique aqui para acessar](https://Laloonn.github.io/nlw)
 
 ## Tecnologias
 - HTML
-- CSS
-- Git e Github
+
 
 
