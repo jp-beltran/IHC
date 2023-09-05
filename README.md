@@ -1,4 +1,4 @@
-# IHC
+# IHC - CINEMA
 ![preview](./preview.png)
 
   >CEUB - ADS
