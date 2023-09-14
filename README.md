@@ -9,6 +9,6 @@ Projeto construido na aula de IHC 2 Semestre
 
 ## Tecnologias
 - HTML
-
+-CSS
 
 
